@@ -14,7 +14,7 @@
 
   <main>
     <section class="card">
-      <h2>🎯 Eventos del Mouse</h2>
+      <h2> Eventos del Mouse</h2>
       <button id="hoverBtn">Pasa el mouse aquí</button>
       <p id="hoverMsg"></p>
       <button id="clickBtn">Haz clic aquí</button>
@@ -22,19 +22,19 @@
     </section>
 
     <section class="card">
-      <h2>⚙️ Funciones Sincrónicas</h2>
+      <h2> Funciones Sincrónicas</h2>
       <button onclick="saludar()">Saludar</button>
       <div id="saludo"></div>
     </section>
 
     <section class="card">
-      <h2>🔁 Función Asíncrona</h2>
+      <h2> Función Asíncrona</h2>
       <button onclick="loadData()">Cargar datos simulados</button>
       <div id="dataResult">Esperando datos...</div>
     </section>
 
   <section class="card">
-  <h2>🎨 Animaciones y Transiciones</h2>
+  <h2> Animaciones y Transiciones</h2>
   <div class="anim-grid">
     <div class="anim-box anim1">Hover</div>
     <div class="anim-box anim2">Pulse</div>
